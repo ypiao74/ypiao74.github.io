@@ -1,37 +1,37 @@
 navbar_entries:
-  - title: about
+  - title: 关于我
     url: about
 
-  - title: blog
+  - title: 博客
     url: blog
 
-  - title: website
+  - title: 网页
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
+  - title: 项目 1
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
+  - title: 项目 2
     url: overview-post
     desc: Projects are shown in card layout
 
-  - title: Project 3
+  - title: 项目 3
     url: overview-post
     desc: You can control visibility from _config.yml file
 
-  - title: Project 4
+  - title: 项目 4
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 
-  - title: Project 5
+  - title: 项目 5
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
     highlight: WIP
 
-  - title: Project 6
+  - title: 项目 6
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
