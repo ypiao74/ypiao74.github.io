@@ -1,9 +1,9 @@
-title: Moonwalk
+title: Fan.Y
 author: Abhinav Saxena
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
-
+  这里是Mr.Fan的私人空间，记录了本人部分的过往经历，感兴趣可以点开我的主页查看。
+  （想谈恋爱了，集美们来加爆我的微信）
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
