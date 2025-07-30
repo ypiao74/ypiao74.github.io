@@ -35,7 +35,7 @@ theme_config:
   home:
     title_projects: 工作经验
     title_misc_list: Details
-    title_blog: Blog
+    title_blog: 求学经历
     title_old_projects: Old Projects
 
 soopr:
