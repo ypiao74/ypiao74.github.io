@@ -2,7 +2,7 @@ title: Fan.Y
 author: Abhinav Saxena
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  这里是Mr.Fan的私人空间，记录了本人部分的过往经历，感兴趣可以点开我的主页查看。\n
+  这里是Mr.Fan的私人空间，记录了本人部分的过往经历，感兴趣可以点开我的主页查看。<br>
        （想谈恋爱了，集美们来加爆我的微信）
 permalink: /:slug
 
